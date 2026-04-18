@@ -8,5 +8,4 @@ export const NAV_ITEMS: navItems[] = [
   { label: "Programmes", href: "/programmes" },
   { label: "Coachs", href: "/coachs" },
   { label: "Blog", href: "/blog" },
-  { label: "Contact", href: "/contact" },
 ];
